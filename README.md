@@ -1,5 +1,9 @@
 # Polish Law Updates Notifier
-by Janek, [www.operatorit.pl](www.operatorit.pl)
+
+Copyright (c) 2025, by Janek, [www.operatorit.pl](www.operatorit.pl) all rights reserved
+This source code is licensed under the BSD-style license found in the LICENSE file in the root directory of this source tree. 
+
+---
 
 This is an automation in N8N that checks for updates related to selected act in Polish law and, if any detected, sends notification on Discord.
 
